@@ -1,24 +1,4 @@
 {
-<<<<<<< HEAD
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
-=======
   "employees": [
     {
       "id": 1,
@@ -39,7 +19,11 @@
       "name": "John",
       "Salary": "60000",
       "id": 6
+    },
+    {
+      "name": "Clark",
+      "Salary": "15000",
+      "id": 7
     }
   ]
 }
->>>>>>> 94000f41031628261b6627f9e382aa9d5e169f0c
