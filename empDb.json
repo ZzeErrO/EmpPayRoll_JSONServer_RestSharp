@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "posts": [
     {
       "id": 1,
@@ -17,3 +18,28 @@
     "name": "typicode"
   }
 }
+=======
+  "employees": [
+    {
+      "id": 1,
+      "name": "Pankaj",
+      "Salary": "10000"
+    },
+    {
+      "id": 2,
+      "name": "David",
+      "Salary": "5000"
+    },
+    {
+      "id": 3,
+      "name": "Lisa",
+      "Salary": "8000"
+    },
+    {
+      "name": "John",
+      "Salary": "60000",
+      "id": 6
+    }
+  ]
+}
+>>>>>>> 94000f41031628261b6627f9e382aa9d5e169f0c
